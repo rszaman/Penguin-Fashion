@@ -1,0 +1,95 @@
+    body {
+    padding: 0;
+    margin: 0;
+    }
+
+  
+  /* -------------- navigation menu side area ----------------- */
+  nav {
+      background-color: #FFFBF0;
+    }
+  
+  nav img {
+      width: 290px;
+      height: 40px;
+    }
+  
+  
+
+  /* ----------------- carousel font design area ----------------- */
+    .slide-text{
+        color: #FABE4C;
+        font-weight: 700;
+        font-family: 'Bebas Neue', cursive;
+        font-size: 80px;
+        line-height: 80px;
+    }
+  
+    .winter {
+        color: #363958;
+        font-weight: 700;
+        font-family: 'Bebas Neue', cursive;
+        font-size: 80px;
+        line-height: 80px;
+    }
+
+    .bc-color{ 
+      background-color: #FFFBF0;
+    }
+
+
+
+    /* ------------- woman-man jacket design article area -------------- */
+    .wtext-color{
+        color: #363958;
+        font-weight: 500;
+        font-size: 35px;
+        line-height: 35px;
+        font-family: 'Bebas Neue', cursive;
+    }
+
+    .button-color {
+    background-color: #a4bc46;
+    border-radius: 10px;
+    }
+
+    .img-size {
+        border: none;
+      }
+    
+    .price-text{
+        color: #FABE4C;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 42px;
+        font-family:'Roboto', sans-serif;
+    }
+    
+    .backen-color {
+    background-color: white;
+    border: none;
+    }
+
+
+
+    /* ------------- contact from design style -------------- */
+
+    #contact-frm{
+        height: 300px;
+        background-color: #94ffe6;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+    }
+
+.btn-style{
+    background-color: white; 
+    color: rgb(0, 0, 0); 
+    border: 2px solid #8450ff;
+    border-radius: 5px;
+    }
+    
+    .btn-style:hover {
+    background-color: #5c5ada;
+    color: rgb(255, 255, 255); 
+    }
