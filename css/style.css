@@ -10,8 +10,8 @@
     }
   
   nav img {
-      width: 290px;
-      height: 40px;
+      width: 220px;
+      height: 30px;
     }
   
   
@@ -21,16 +21,16 @@
         color: #FABE4C;
         font-weight: 700;
         font-family: 'Bebas Neue', cursive;
-        font-size: 80px;
-        line-height: 80px;
+        font-size: 50px;
+        line-height: 60px;
     }
   
     .winter {
         color: #363958;
         font-weight: 700;
         font-family: 'Bebas Neue', cursive;
-        font-size: 80px;
-        line-height: 80px;
+        font-size: 50px;
+        line-height: 60px;
     }
 
     .bc-color{ 
@@ -51,6 +51,7 @@
     .button-color {
     background-color: #a4bc46;
     border-radius: 10px;
+    
     }
 
     .img-size {
@@ -60,8 +61,8 @@
     .price-text{
         color: #FABE4C;
         font-weight: 600;
-        font-size: 36px;
-        line-height: 42px;
+        font-size: 30px;
+        line-height: 40px;
         font-family:'Roboto', sans-serif;
     }
     
@@ -92,4 +93,15 @@
     .btn-style:hover {
     background-color: #5c5ada;
     color: rgb(255, 255, 255); 
+    }
+
+/* ------------- responsive design section -------------- */
+    @media screen and (max-width: 600px) {
+      .responsiv {
+      width: 90%;
+      text-transform: none;
+      margin: auto;
+      text-align: center;
+      margin-left: 15px;
+      margin-right: auto;
     }
